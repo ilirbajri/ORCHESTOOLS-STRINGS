@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLOS SPICCATO HARD" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_A2_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.11194" MonolithOffset="0" MonolithLength="151552"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_A2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.02641" MonolithOffset="151552" MonolithLength="147456"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B1_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.43097" MonolithOffset="299008"
+          MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="47" LoKey="46" HiKey="48" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="3.4408" MonolithOffset="380928" MonolithLength="90112"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B3_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.84369" MonolithOffset="471040"
+          MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="71" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.72011" MonolithOffset="573440" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C1_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.50413" MonolithOffset="675840"
+          MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="38" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.24179" MonolithOffset="819200" MonolithLength="155648"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C3_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.18091" MonolithOffset="974848"
+          MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="3.15699" MonolithOffset="1064960" MonolithLength="131072"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D2_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.61929" MonolithOffset="1196032"
+          MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.39135" MonolithOffset="1347584" MonolithLength="131072"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D4_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.75621" MonolithOffset="1478656"
+          MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D4_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.35225" MonolithOffset="1552384" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E1_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.06019" MonolithOffset="1622016"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.7326" MonolithOffset="1699840" MonolithLength="86016"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E3_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.1222" MonolithOffset="1785856"
+          MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.87134" MonolithOffset="1867776" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F2_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="2.53379" MonolithOffset="1970176"
+          MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.47037" MonolithOffset="2027520" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F4_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.46236" MonolithOffset="2097152"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F4_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.99732" MonolithOffset="2134016" MonolithLength="61440"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G1_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="3.80971" MonolithOffset="2195456"
+          MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="45" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="2.86266" MonolithOffset="2338816" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G3_v2_RR1.wav"
+          Duplicate="0" SampleStart="500" SampleStartMod="10000" LowerVelocityXFade="0"
+          Normalized="1" NormalizedPeak="1.9637" MonolithOffset="2465792"
+          MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="69" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="10000" LowerVelocityXFade="0" Normalized="1"
+          NormalizedPeak="1.93565" MonolithOffset="2535424" MonolithLength="86016"
+          SampleRate="44100"/>
+</samplemap>

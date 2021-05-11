@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLIN TREMOLO SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_A2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.83164" SampleStartMod="50000"
+          LoopEnd="200000" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="0" MonolithLength="311296" SampleRate="44100"/>
+  <sample Root="69" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_A3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.67706" SampleStartMod="50000"
+          LoopEnd="250916" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="311296" MonolithLength="331776" SampleRate="44100"/>
+  <sample Root="81" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_A4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.47834" SampleStartMod="50000"
+          LoopEnd="200000" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="643072" MonolithLength="335872" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_C3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.77042" SampleStartMod="54452"
+          LoopEnd="253982" LoopXFade="15000" LoopEnabled="1" LoopStart="216666"
+          MonolithOffset="978944" MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_C4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.80005" SampleStartMod="70016"
+          LoopEnd="228298" LoopXFade="15000" LoopEnabled="1" LoopStart="96831"
+          MonolithOffset="1282048" MonolithLength="299008" SampleRate="44100"/>
+  <sample Root="84" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_C5_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.31954" SampleStartMod="52975"
+          LoopEnd="162944" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="1581056" MonolithLength="290816" SampleRate="44100"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_C6_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.00504" SampleStartMod="50000"
+          LoopEnd="200000" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="1871872" MonolithLength="417792" SampleRate="44100"/>
+  <sample Root="64" LoKey="63" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_E3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.02547" SampleStartMod="55522"
+          LoopEnd="210985" LoopXFade="15000" LoopEnabled="1" LoopStart="101648"
+          MonolithOffset="2289664" MonolithLength="339968" SampleRate="44100"/>
+  <sample Root="76" LoKey="74" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_E4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.08166" SampleStartMod="50000"
+          LoopEnd="168558" LoopXFade="15000" LoopEnabled="1" LoopStart="86005"
+          MonolithOffset="2629632" MonolithLength="249856" SampleRate="44100"/>
+  <sample Root="88" LoKey="86" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_E5_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.58694" SampleStartMod="50000"
+          LoopEnd="200000" LoopXFade="15000" LoopEnabled="1" LoopStart="109284"
+          MonolithOffset="2879488" MonolithLength="303104" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_G2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.08279" SampleStartMod="50000"
+          LoopEnd="242672" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="3182592" MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_G3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.81" SampleStartMod="54832"
+          LoopEnd="225259" LoopXFade="15000" LoopEnabled="1" LoopStart="125967"
+          MonolithOffset="3477504" MonolithLength="294912" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_G4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.80892" SampleStartMod="50000"
+          LoopEnd="160958" LoopXFade="15000" LoopEnabled="1" LoopStart="58434"
+          MonolithOffset="3772416" MonolithLength="278528" SampleRate="44100"/>
+  <sample Root="91" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Trem/LLVln_trem_G5_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.02353" SampleStartMod="50000"
+          LoopEnd="202288" LoopXFade="15000" LoopEnabled="1" LoopStart="100000"
+          MonolithOffset="4050944" MonolithLength="372736" SampleRate="44100"
+          SampleStart="43080"/>
+</samplemap>

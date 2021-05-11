@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLAS 1 HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_A3_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="154726"
+          Volume="3" MonolithOffset="0" MonolithLength="479232" SampleRate="44100"
+          Normalized="1" NormalizedPeak="1.92069" LoopEnd="400000" LoopStart="245636"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="59" LoKey="57" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_B2_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="150000"
+          Volume="3" MonolithOffset="479232" MonolithLength="544768" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.52637" LoopEnd="400000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="83" LoKey="81" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_B4_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="156656"
+          Volume="3" MonolithOffset="1024000" MonolithLength="483328" SampleRate="44100"
+          Normalized="1" NormalizedPeak="4.13986" SampleStart="3643" LoopEnd="327885"
+          LoopStart="134797" LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_C2_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="150000"
+          Volume="3" MonolithOffset="1507328" MonolithLength="557056" SampleRate="44100"
+          Normalized="1" NormalizedPeak="3.25651" LoopEnd="400000" LoopStart="213444"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_C4_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="150000"
+          Volume="3" MonolithOffset="2064384" MonolithLength="495616" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.71835" LoopEnd="410315" LoopStart="250298"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="50" LoKey="49" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_D2_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="170452"
+          Volume="3" MonolithOffset="2560000" MonolithLength="512000" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.9979" LoopEnd="440603" LoopStart="279155"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_D3_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="159605"
+          Volume="3" MonolithOffset="3072000" MonolithLength="602112" SampleRate="44100"
+          Normalized="1" NormalizedPeak="3.21308" SampleStart="2269" LoopEnd="400000"
+          LoopStart="200000" LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="86" LoKey="85" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_D5_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="150000"
+          Volume="3" MonolithOffset="3674112" MonolithLength="442368" SampleRate="44100"
+          Normalized="1" NormalizedPeak="3.76546" LoopEnd="400000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="52" LoKey="51" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_E2_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="68911" Volume="3"
+          MonolithOffset="4116480" MonolithLength="507904" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.77545" LoopEnd="222048" LoopStart="167174"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="76" LoKey="74" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_E4_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="184783"
+          Volume="3" MonolithOffset="4624384" MonolithLength="430080" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.68055" LoopEnd="400000" LoopStart="230168"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_F3_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="154907"
+          Volume="3" MonolithOffset="5054464" MonolithLength="581632" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.80347" LoopEnd="400000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="55" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_G2_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="217746"
+          Volume="3" MonolithOffset="5636096" MonolithLength="610304" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.46777" LoopEnd="462328" LoopStart="303618"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="79" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_G4_v2_1.wav"
+          Duplicate="0" LowerVelocityXFade="0" SampleStartMod="158802"
+          Volume="3" MonolithOffset="6246400" MonolithLength="520192" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.862" LoopEnd="400000" LoopStart="262710"
+          LoopEnabled="1" LoopXFade="15000"/>
+</samplemap>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASS 1" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_A#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.7621" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="0" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="34" HiKey="34" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_A#0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.35901" LoopEnd="350000"
+          LoopStart="200000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="335872" MonolithLength="548864"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="58" HiKey="127" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_B2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.3928" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="884736" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="58" HiKey="127" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_B2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.31271" LoopEnd="350000"
+          LoopStart="200000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="1200128" MonolithLength="409600"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="46" HiKey="49" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_C#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.5065" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="1609728" MonolithLength="339968"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="46" HiKey="49" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_C#2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.94778" LoopEnd="410629"
+          LoopStart="225259" LoopXFade="15000" LoopEnabled="1" SampleStartMod="52208"
+          LowerVelocityXFade="80" MonolithOffset="1949696" MonolithLength="466944"
+          SampleRate="44100" SampleStart="0"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_C1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.8197" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="2416640" MonolithLength="462848"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_C1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.06664" LoopEnd="350000"
+          LoopStart="200000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="2879488" MonolithLength="622592"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_D1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="40.6047" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="3502080" MonolithLength="765952"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_D1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.81372" LoopEnd="463115"
+          LoopStart="255485" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="4268032" MonolithLength="614400"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_E1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="70.4688" LoopEnd="430126"
+          LoopStart="276016" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="4882432" MonolithLength="610304"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_E1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.2657" LoopEnd="375401"
+          LoopStart="224333" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="5492736" MonolithLength="516096"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="54" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_E2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.9474" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="6008832" MonolithLength="385024"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="54" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_E2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.0205" LoopEnd="350000"
+          LoopStart="200000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="6393856" MonolithLength="471040"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="0" HiKey="30" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_F#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="46.5455" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="6864896" MonolithLength="401408"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="0" HiKey="30" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_F#0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.59376" LoopEnd="350000"
+          LoopStart="200000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="7266304" MonolithLength="544768"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_F#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="33.2333" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="7811072" MonolithLength="290816"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="42" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_F#1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.029" LoopEnd="350000"
+          LoopStart="126970" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="8101888" MonolithLength="430080"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="45" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.8184" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="8531968" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="43" HiKey="45" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G#1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.33726" LoopEnd="318366"
+          LoopStart="212441" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="8847360" MonolithLength="471040"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="57" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.5164" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="9318400" MonolithLength="339968"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="55" HiKey="57" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G#2_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.1758" LoopEnd="199407"
+          LoopStart="118145" LoopXFade="15000" LoopEnabled="1" SampleStartMod="54174"
+          LowerVelocityXFade="80" MonolithOffset="9658368" MonolithLength="458752"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="33" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="61.3633" LoopEnd="250000"
+          LoopStart="180000" LoopXFade="15000" LoopEnabled="1" SampleStartMod="100000"
+          UpperVelocityXFade="80" MonolithOffset="10117120" MonolithLength="397312"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="33" LoVel="11" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/SusVib/BKCtbss_SusVib_G0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.2304" LoopEnd="423122"
+          LoopStart="231650" LoopXFade="15000" LoopEnabled="1" SampleStartMod="50000"
+          LowerVelocityXFade="80" MonolithOffset="10514432" MonolithLength="499712"
+          SampleRate="44100" SampleStart="88516"/>
+</samplemap>

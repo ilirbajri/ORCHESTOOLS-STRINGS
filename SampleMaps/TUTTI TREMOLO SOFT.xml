@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUTTI TREMOLO SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="83" LoKey="81" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_B4_v1.wav"
+          Duplicate="0" Volume="0" UpperVelocityXFade="0" SampleStartMod="12000"
+          LoopEnabled="1" LoopStart="100190" LoopEnd="325096" LoopXFade="15000"
+          MonolithOffset="0" MonolithLength="417792" SampleRate="44100"
+          Normalized="1" NormalizedPeak="13.5798" SampleStart="9914"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_D5_v1.wav"
+          Duplicate="0" Volume="0" UpperVelocityXFade="0" SampleStartMod="12000"
+          LoopEnabled="1" LoopStart="68817" LoopEnd="259831" LoopXFade="15000"
+          MonolithOffset="417792" MonolithLength="352256" SampleRate="44100"
+          Normalized="1" NormalizedPeak="12.815" SampleStart="4411"/>
+  <sample Root="76" LoKey="72" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_E4_v1.wav"
+          Duplicate="0" Volume="0" UpperVelocityXFade="0" SampleStartMod="12000"
+          LoopEnabled="1" LoopStart="87956" LoopEnd="292699" LoopXFade="15000"
+          MonolithOffset="770048" MonolithLength="389120" SampleRate="44100"
+          Normalized="1" NormalizedPeak="18.597" SampleStart="4397"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_G4_v1.wav"
+          Duplicate="0" Volume="0" UpperVelocityXFade="0" SampleStartMod="12000"
+          LoopEnabled="1" LoopStart="116513" LoopEnd="339829" LoopXFade="15000"
+          MonolithOffset="1159168" MonolithLength="430080" SampleRate="44100"
+          Normalized="1" NormalizedPeak="10.0577" SampleStart="8091"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_A3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="65350"
+          MonolithOffset="1589248" MonolithLength="520192" SampleRate="44100"
+          Normalized="1" NormalizedPeak="26.7923" LoopStart="100000" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="59" LoKey="57" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_B2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="143035"
+          MonolithOffset="2109440" MonolithLength="544768" SampleRate="44100"
+          Normalized="1" NormalizedPeak="35.3093" LoopStart="205998" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="72" LoKey="70" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_C4_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="50000"
+          MonolithOffset="2654208" MonolithLength="638976" SampleRate="44100"
+          Normalized="1" NormalizedPeak="44.3997" LoopStart="76259" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="238411"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_D3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="166248"
+          MonolithOffset="3293184" MonolithLength="671744" SampleRate="44100"
+          Normalized="1" NormalizedPeak="41.9015" LoopStart="237979" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="412666"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_F3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="158200"
+          MonolithOffset="3964928" MonolithLength="688128" SampleRate="44100"
+          Normalized="1" NormalizedPeak="68.6939" LoopStart="194508" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="55" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_G2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="150023"
+          MonolithOffset="4653056" MonolithLength="487424" SampleRate="44100"
+          Normalized="1" NormalizedPeak="53.107" LoopStart="208808" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="47" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_B1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="29.0359" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          UpperVelocityXFade="0" MonolithOffset="5140480" MonolithLength="344064"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_D2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.9373" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          UpperVelocityXFade="0" MonolithOffset="5484544" MonolithLength="307200"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="0" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_E1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="30.935" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          UpperVelocityXFade="0" MonolithOffset="5791744" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_F2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.894" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          UpperVelocityXFade="0" MonolithOffset="6209536" MonolithLength="311296"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_G1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="38.8736" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="100000"
+          UpperVelocityXFade="0" MonolithOffset="6520832" MonolithLength="331776"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="33" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_C1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.8962" UpperVelocityXFade="0"
+          LoopEnd="217302" LoopStart="120000" LoopEnabled="1" LoopXFade="15000"
+          SampleStartMod="100000" MonolithOffset="6852608" MonolithLength="413696"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_E0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.714" UpperVelocityXFade="0"
+          LoopEnd="278219" LoopStart="184497" LoopEnabled="1" LoopXFade="15000"
+          SampleStartMod="100795" MonolithOffset="7266304" MonolithLength="471040"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_E1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.6057" UpperVelocityXFade="0"
+          LoopEnd="235023" LoopStart="147243" LoopEnabled="1" LoopXFade="15000"
+          SampleStartMod="100000" MonolithOffset="7737344" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="42" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_G#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.77045" UpperVelocityXFade="0"
+          LoopEnd="200000" LoopStart="117541" LoopEnabled="1" LoopXFade="15000"
+          SampleStartMod="100000" MonolithOffset="8060928" MonolithLength="282624"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="30" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_G0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0037" UpperVelocityXFade="0"
+          LoopEnd="200000" LoopStart="118130" LoopEnabled="1" LoopXFade="15000"
+          SampleStartMod="100191" MonolithOffset="8343552" MonolithLength="270336"
+          SampleRate="44100"/>
+</samplemap>

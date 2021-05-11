@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLAS TREMOLO" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_A3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="65350"
+          MonolithOffset="0" MonolithLength="520192" SampleRate="44100"
+          Normalized="1" NormalizedPeak="26.7923" LoopStart="100000" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="69" LoKey="67" HiKey="70" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_A3_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="520192" MonolithLength="499712" SampleRate="44100"
+          LoopXFade="15000" LoopStart="233533" LoopEnabled="1" LoopEnd="399267"/>
+  <sample Root="59" LoKey="57" HiKey="60" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_B2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="143035"
+          MonolithOffset="1019904" MonolithLength="544768" SampleRate="44100"
+          Normalized="1" NormalizedPeak="35.3093" LoopStart="205998" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="59" LoKey="57" HiKey="60" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_B2_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="1564672" MonolithLength="475136" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="324119"/>
+  <sample Root="83" LoKey="81" HiKey="84" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_B4_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="128483"
+          MonolithOffset="2039808" MonolithLength="356352" SampleRate="44100"
+          Normalized="1" NormalizedPeak="20.6862" LoopStart="173699" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="309345"/>
+  <sample Root="83" LoKey="81" HiKey="84" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_B4_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="2396160" MonolithLength="364544" SampleRate="44100"
+          LoopXFade="15000" LoopStart="204254" LoopEnabled="1" LoopEnd="312793"/>
+  <sample Root="48" LoKey="0" HiKey="49" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_C2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="147826"
+          MonolithOffset="2760704" MonolithLength="466944" SampleRate="44100"
+          Normalized="1" NormalizedPeak="38.1455" LoopStart="177743" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="48" LoKey="0" HiKey="49" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_C2_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="3227648" MonolithLength="462848" SampleRate="44100"
+          LoopXFade="15000" LoopStart="126178" LoopEnabled="1" LoopEnd="257008"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_C4_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="50000"
+          MonolithOffset="3690496" MonolithLength="638976" SampleRate="44100"
+          Normalized="1" NormalizedPeak="44.3997" LoopStart="76259" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="238411"/>
+  <sample Root="72" LoKey="71" HiKey="73" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_C4_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="4329472" MonolithLength="380928" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="317280"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_D3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="166248"
+          MonolithOffset="4710400" MonolithLength="671744" SampleRate="44100"
+          Normalized="1" NormalizedPeak="41.9015" LoopStart="237979" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="412666"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_D3_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="5382144" MonolithLength="475136" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="342026"/>
+  <sample Root="86" LoKey="85" HiKey="127" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_D5_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="56994"
+          MonolithOffset="5857280" MonolithLength="581632" SampleRate="44100"
+          Normalized="1" NormalizedPeak="29.4403" LoopStart="100000" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="86" LoKey="85" HiKey="127" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_D5_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="6438912" MonolithLength="327680" SampleRate="44100"
+          LoopXFade="15000" LoopStart="120615" LoopEnabled="1" LoopEnd="200065"/>
+  <sample Root="52" LoKey="50" HiKey="53" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_E2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="191318"
+          MonolithOffset="6766592" MonolithLength="585728" SampleRate="44100"
+          Normalized="1" NormalizedPeak="48.5437" LoopStart="236940" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="52" LoKey="50" HiKey="53" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_E2_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="7352320" MonolithLength="458752" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="341758"/>
+  <sample Root="76" LoKey="74" HiKey="77" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_E4_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="50000"
+          MonolithOffset="7811072" MonolithLength="548864" SampleRate="44100"
+          Normalized="1" NormalizedPeak="21.2359" LoopStart="100000" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="76" LoKey="74" HiKey="77" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_E4_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="8359936" MonolithLength="466944" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="367219"
+          Pan="0"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_F3_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="158200"
+          MonolithOffset="8826880" MonolithLength="688128" SampleRate="44100"
+          Normalized="1" NormalizedPeak="68.6939" LoopStart="194508" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="65" LoKey="64" HiKey="66" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_F3_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="9515008" MonolithLength="385024" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="304730"/>
+  <sample Root="55" LoKey="54" HiKey="56" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_G2_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="150023"
+          MonolithOffset="9900032" MonolithLength="487424" SampleRate="44100"
+          Normalized="1" NormalizedPeak="53.107" LoopStart="208808" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="55" LoKey="54" HiKey="56" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_G2_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="10387456" MonolithLength="401408" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="287944"/>
+  <sample Root="79" LoKey="78" HiKey="80" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_G4_v1_rr1.wav"
+          Duplicate="0" UpperVelocityXFade="50" Volume="0" SampleStartMod="50000"
+          MonolithOffset="10788864" MonolithLength="483328" SampleRate="44100"
+          Normalized="1" NormalizedPeak="20.6341" LoopStart="100000" LoopEnabled="1"
+          LoopXFade="15000" LoopEnd="400000"/>
+  <sample Root="79" LoKey="78" HiKey="80" LoVel="41" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/trem/Violas_trem_G4_v2_rr1.wav"
+          Duplicate="0" LowerVelocityXFade="50" SampleStartMod="60000"
+          MonolithOffset="11272192" MonolithLength="356352" SampleRate="44100"
+          LoopXFade="15000" LoopStart="150000" LoopEnabled="1" LoopEnd="292333"/>
+</samplemap>

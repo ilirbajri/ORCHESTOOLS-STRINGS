@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLIN 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_A3_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.9857" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="0" MonolithLength="729088"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_A4_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.5771" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="729088" MonolithLength="655360"
+          SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_A5_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.9409" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="1384448" MonolithLength="643072"
+          SampleRate="44100"/>
+  <sample Root="93" LoKey="92" HiKey="93" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_A6_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.2904" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="2027520" MonolithLength="655360"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_C4_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.84188" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" Pitch="-12" MonolithOffset="2682880" MonolithLength="778240"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_C5_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.12094" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="3461120" MonolithLength="626688"
+          SampleRate="44100"/>
+  <sample Root="84" LoKey="82" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_C6_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.93572" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="4087808" MonolithLength="589824"
+          SampleRate="44100"/>
+  <sample Root="96" LoKey="94" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_C7_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.4131" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="4677632" MonolithLength="569344"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="61" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_E4_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.4973" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="5246976" MonolithLength="651264"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_E5_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.4008" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="5898240" MonolithLength="630784"
+          SampleRate="44100"/>
+  <sample Root="88" LoKey="85" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_E6_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.4202" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="6529024" MonolithLength="630784"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_G3_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.6249" SampleStartMod="201450"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="538661" LoopStart="373997"
+          LoopXFade="15000" SampleStart="217216" MonolithOffset="7159808"
+          MonolithLength="700416" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_G4_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.8315" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="7860224" MonolithLength="651264"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_G5_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.707" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="8511488" MonolithLength="651264"
+          SampleRate="44100"/>
+  <sample Root="91" LoKey="89" HiKey="91" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Arco Vib/LLVln_ArcoVib_G6_p.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.5086" SampleStartMod="150000"
+          UpperVelocityXFade="0" LoopEnabled="1" LoopEnd="400000" LoopStart="250000"
+          LoopXFade="15000" MonolithOffset="9162752" MonolithLength="606208"
+          SampleRate="44100"/>
+</samplemap>

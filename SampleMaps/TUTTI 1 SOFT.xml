@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="TUTTI 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_B4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.4713" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="0" MonolithLength="516096"
+          SampleRate="44100" Pan="-25"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_C4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.12094" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="516096"
+          MonolithLength="516096" SampleRate="44100" Pan="-11" Volume="2"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_D5_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.56451" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="1032192"
+          MonolithLength="532480" SampleRate="44100" Pan="-25"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_E4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.0737" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="1564672"
+          MonolithLength="581632" SampleRate="44100" Pan="-11" Volume="2"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_G4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.23317" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" UpperVelocityXFade="0" MonolithOffset="2146304"
+          MonolithLength="585728" SampleRate="44100" Pan="-25"/>
+  <sample Root="59" LoKey="57" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_B2_v1_1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="100000"
+          MonolithOffset="2732032" MonolithLength="479232" SampleRate="44100"
+          Normalized="1" NormalizedPeak="18.3261" LoopEnd="300000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="62" LoKey="61" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_D3_v1_1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="100000"
+          MonolithOffset="3211264" MonolithLength="466944" SampleRate="44100"
+          Normalized="1" NormalizedPeak="20.239" LoopEnd="300000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000"/>
+  <sample Root="65" LoKey="64" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_F3_v1_1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="100000"
+          MonolithOffset="3678208" MonolithLength="417792" SampleRate="44100"
+          Normalized="1" NormalizedPeak="18.2241" LoopEnd="300000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000" Pan="-7"/>
+  <sample Root="55" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/susvib/ViolaEns_susvib_G2_v1_1.wav"
+          Duplicate="0" UpperVelocityXFade="0" Volume="0" SampleStartMod="100000"
+          MonolithOffset="4096000" MonolithLength="335872" SampleRate="44100"
+          Normalized="1" NormalizedPeak="12.1992" LoopEnd="300000" LoopStart="200000"
+          LoopEnabled="1" LoopXFade="15000" Pan="12"/>
+  <sample Root="47" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_B1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.91935" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="4431872" MonolithLength="397312"
+          SampleRate="44100" Pan="16"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_C1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.89292" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="4829184" MonolithLength="393216"
+          SampleRate="44100" Pan="35"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_D2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.83553" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="5222400" MonolithLength="425984"
+          SampleRate="44100" Pan="16"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_E1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.4459" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="5648384" MonolithLength="413696"
+          SampleRate="44100" Pan="25"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_E1_v1_2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.1779" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="6062080" MonolithLength="409600"
+          SampleRate="44100" Pan="25"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_F2_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.3536" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="6471680" MonolithLength="364544"
+          SampleRate="44100" Pan="6"/>
+  <sample Root="43" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_G1_v1_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.2756" UpperVelocityXFade="0"
+          SampleStartMod="100000" LoopEnd="260000" LoopEnabled="1" LoopStart="100000"
+          LoopXFade="15000" MonolithOffset="6836224" MonolithLength="360448"
+          SampleRate="44100" Pan="25"/>
+</samplemap>

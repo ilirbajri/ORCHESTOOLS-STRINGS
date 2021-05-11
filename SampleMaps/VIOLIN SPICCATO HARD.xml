@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLIN SPICCATO HARD" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.20968" SampleStartMod="5000"
+          MonolithOffset="0" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.41889" SampleStartMod="5000"
+          MonolithOffset="73728" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="69" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.89353" SampleStartMod="5000"
+          MonolithOffset="159744" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="69" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1954" SampleStartMod="5000"
+          MonolithOffset="225280" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="81" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.9752" SampleStartMod="5000"
+          MonolithOffset="307200" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="81" LoKey="78" HiKey="80" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.67215" SampleStartMod="5000"
+          MonolithOffset="368640" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="93" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.03573" SampleStartMod="5000"
+          MonolithOffset="454656" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="93" LoKey="90" HiKey="92" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_A5_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.74239" SampleStartMod="5000"
+          MonolithOffset="516096" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.49492" SampleStartMod="5000"
+          MonolithOffset="561152" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="60" LoKey="57" HiKey="58" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.71099" SampleStartMod="5000"
+          MonolithOffset="614400" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="72" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.55671" SampleStartMod="5000"
+          MonolithOffset="667648" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="72" LoKey="69" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.86659" SampleStartMod="5000"
+          MonolithOffset="720896" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="84" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.36324" SampleStartMod="5000"
+          MonolithOffset="774144" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="84" LoKey="81" HiKey="82" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C5_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.16416" SampleStartMod="5000"
+          MonolithOffset="831488" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C6_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.20449" SampleStartMod="5000"
+          MonolithOffset="888832" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="96" LoKey="93" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_C6_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2589" SampleStartMod="5000"
+          MonolithOffset="942080" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="64" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.59449" SampleStartMod="5000"
+          MonolithOffset="995328" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="64" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.45675" SampleStartMod="5000"
+          MonolithOffset="1069056" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="76" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.57464" SampleStartMod="5000"
+          MonolithOffset="1126400" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="76" LoKey="71" HiKey="73" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.91308" SampleStartMod="5000"
+          MonolithOffset="1208320" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="88" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.46778" SampleStartMod="5000"
+          MonolithOffset="1298432" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="88" LoKey="83" HiKey="85" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_E5_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.57801" SampleStartMod="5000"
+          MonolithOffset="1351680" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.4167" SampleStartMod="5000"
+          MonolithOffset="1396736" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.63766" SampleStartMod="5000"
+          MonolithOffset="1495040" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="67" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.82957" SampleStartMod="5000"
+          MonolithOffset="1589248" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="67" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.84111" SampleStartMod="5000"
+          MonolithOffset="1642496" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="79" LoKey="74" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.64935" SampleStartMod="5000"
+          MonolithOffset="1691648" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="79" LoKey="74" HiKey="77" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.1758" SampleStartMod="5000"
+          MonolithOffset="1748992" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="91" LoKey="86" HiKey="89" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.80684" SampleStartMod="5000"
+          MonolithOffset="1810432" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="91" LoKey="86" HiKey="89" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/spic/LLVln_spic_G5_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.28857" SampleStartMod="5000"
+          MonolithOffset="1855488" MonolithLength="53248" SampleRate="44100"/>
+</samplemap>

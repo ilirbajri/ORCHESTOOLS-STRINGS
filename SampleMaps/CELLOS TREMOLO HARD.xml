@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLOS TREMOLO HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_A2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.09384" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="0" MonolithLength="417792"
+          SampleRate="44100"/>
+  <sample Root="47" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_B2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.46468" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="417792" MonolithLength="303104"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="69" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_B3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.52719" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="720896" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_C1_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.00054" LowerVelocityXFade="0"
+          LoopEnabled="1" LoopEnd="254098" LoopStart="137491" LoopXFade="15000"
+          MonolithOffset="1089536" MonolithLength="462848" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_C3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.01543" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="1552384" MonolithLength="360448"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_D2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="1912832" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_D4_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.45968" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="2281472" MonolithLength="315392"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_E1_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.39448" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="2596864" MonolithLength="368640"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_E3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.05989" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="2965504" MonolithLength="356352"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_F2_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.47633" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="3321856" MonolithLength="303104"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_F4_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.50172" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="3624960" MonolithLength="323584"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_G1_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.02856" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="3948544" MonolithLength="495616"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/trem/trem_G3_v2_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.12627" LoopEnd="250000"
+          LoopEnabled="1" LoopStart="150000" LoopXFade="15000" SampleStartMod="50000"
+          LowerVelocityXFade="0" MonolithOffset="4444160" MonolithLength="335872"
+          SampleRate="44100"/>
+</samplemap>

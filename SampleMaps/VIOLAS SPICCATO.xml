@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLAS SPICCATO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="69" LoKey="66" HiKey="69" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_A3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.7614" SampleStartMod="1500"
+          SampleStart="0" UpperVelocityXFade="80" MonolithOffset="0" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="66" HiKey="69" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_A3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.71551" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="45056" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="66" HiKey="69" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_A3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.80188" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="98304" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.4471" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="151552" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.8423" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="204800" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.6758" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="258048" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.02685" SampleStartMod="1500"
+          SampleStart="0" LowerVelocityXFade="80" MonolithOffset="356352"
+          MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="83" LoKey="81" HiKey="99" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.7787" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="446464" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="83" LoKey="81" HiKey="82" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.87781" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="483328" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="83" LoKey="81" HiKey="82" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.71519" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="524288" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="83" LoKey="81" HiKey="82" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_B4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.5385" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="573440" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.894" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="622592" MonolithLength="122880"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.8618" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="745472" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.55787" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="860160" MonolithLength="126976"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.68428" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="987136" MonolithLength="139264"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.0489" SampleStartMod="1500"
+          SampleStart="0" UpperVelocityXFade="80" MonolithOffset="1126400"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.3208" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1167360" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.77642" SampleStartMod="1500"
+          SampleStart="0" LowerVelocityXFade="80" MonolithOffset="1204224"
+          MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_C4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.62459" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1257472" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.5164" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1310720" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.2091" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1359872" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.81811" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1413120" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.67373" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1470464" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="100" HiKey="127" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D5_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.8378" SampleStartMod="1500"
+          SampleStart="949" UpperVelocityXFade="80" MonolithOffset="1540096"
+          MonolithLength="28672" SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="127" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D5_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.353" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1568768" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="127" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D5_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.33374" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1597440" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="86" LoKey="83" HiKey="127" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_D5_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.27287" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1626112" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.6385" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1654784" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.7856" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1691648" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.80934" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1732608" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.027" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1802240" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.3402" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1859584" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.3193" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="1900544" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.61162" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="1949696" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_E4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.05046" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2007040" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="69" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_F3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.1641" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="2064384" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="65" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_F3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.583" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="2097152" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="65" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_F3_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.6308" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2129920" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="65" LoKey="63" HiKey="65" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_F3_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.68189" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2170880" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.9514" SampleStartMod="1500"
+          SampleStart="0" UpperVelocityXFade="80" MonolithOffset="2207744"
+          MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.2907" SampleStartMod="1500"
+          SampleStart="0" UpperVelocityXFade="80" MonolithOffset="2256896"
+          MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.62433" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2293760" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G2_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.68985" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2347008" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="0" HiVel="95" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.73211" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="2412544" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="0" HiVel="95" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G4_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.7057" SampleStartMod="1500"
+          UpperVelocityXFade="80" MonolithOffset="2457600" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="16" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G4_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.4348" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2498560" MonolithLength="36864"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="80" LoVel="16" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/spic/Violas_spic_G4_v2_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.38827" SampleStartMod="1500"
+          LowerVelocityXFade="80" MonolithOffset="2535424" MonolithLength="36864"
+          SampleRate="44100"/>
+</samplemap>

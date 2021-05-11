@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="1.0.2" Notes="Modulation Wheel - volume">
+  <Content Processor="Interface">
+    <Control type="ScriptButton" id="L1_FILTER ON" value="1"/>
+    <Control type="ScriptComboBox" id="L1FilterSelect" value="10"/>
+    <Control type="ScriptSlider" id="L1_FILTER FREQUENCY" value="14207"/>
+    <Control type="ScriptSlider" id="L1_FILTER RESONANCE" value="0.3"/>
+    <Control type="ScriptSlider" id="L1_FILTER BIPOLAR" value="0.3"/>
+    <Control type="ScriptSlider" id="L1_FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1_FILTER VELOCITY FREQUENCE" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY FREQUENCE ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY FREQUENCE SLIDER MODE"
+             value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY FREQUENCE INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L1_FILTER VELOCITY BIPOLAR" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY BIPOLAR ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY FBIPLOAR SLIDER MODE"
+             value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY FBIPLOAR INVERT1"
+             value="0"/>
+    <Control type="ScriptSlider" id="L1_FILTER VELOCITY GAIN" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY GAIN ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY GAIN SLIDER MODE"
+             value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER VELOCITY GAIN INVERT" value="0"/>
+    <Control type="ScriptButton" id="L1_FENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L1_FENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L1_FATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L1_FVELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L1_FVELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_FVELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L1_FENV DECAY CURVE" value="0"/>
+    <Control type="ScriptButton" id="L1 XPRESS ON" value="0"/>
+    <Control type="ScriptComboBox" id="L1 MIDI CC SELECT" value="1"/>
+    <Control type="ScriptSlider" id="L1_MIDI CC" value="200"/>
+    <Control type="ScriptSlider" id="L1_MIDI CH" value="1"/>
+    <Control type="ScriptSlider" id="L1High" value="96"/>
+    <Control type="ScriptSlider" id="L1Low" value="9"/>
+    <Control type="ScriptSliderPack" id="L1_keygainsliders" value="43" data="512....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C"/>
+    <Control type="ScriptSlider" id="L1_ENV_ATTACK" value="24"/>
+    <Control type="ScriptSlider" id="L1_ENV_HOLD" value="490"/>
+    <Control type="ScriptSlider" id="L1_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L1_ENV_SUSTAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1_ENV_RELEASE" value="788"/>
+    <Control type="ScriptSlider" id="L1_ATTACK LEVEL" value="-6.5"/>
+    <Control type="ScriptSlider" id="L1_VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L1_VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L1_ATTACK CURVE" value="0.52"/>
+    <Control type="ScriptSlider" id="L1_DECAY CURVE" value="0.27"/>
+    <Control type="ScriptSlider" id="L1_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY ON" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY EXP" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L1_SAMPLE START CONSTANT" value="0"/>
+    <Control type="ScriptButton" id="L1_SAMPLE START CONSTANT ON" value="0"/>
+    <Control type="ScriptSlider" id="L1_VELOCITY SAMPLE START" value="0.53"/>
+    <Control type="ScriptButton" id="L1_VELOCITY SAMPLE START ON" value="1"/>
+    <Control type="ScriptButton" id="L1_VELOCITY SAMPLE START INVERT" value="0"/>
+    <Control type="ScriptButton" id="L1_VELOCITY SAMPLE START MODE" value="0"/>
+    <Control type="ScriptSlider" id="L1_RANDOM SAMPLE START" value="0.82"/>
+    <Control type="ScriptButton" id="L1_RANDOM SAMPLE START ON" value="1"/>
+    <Control type="ScriptButton" id="L1_PENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L1_PENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV INTENSITY" value="-0.18"/>
+    <Control type="ScriptSlider" id="L1_PENV ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L1_PENV VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK LEVEL INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L1_PENV VELOCITY ATTACK TIME INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L1_PENV DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L1_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L1_TRANSPOSE" value="0"/>
+    <Control type="ScriptComboBox" id="LAYER1INSTRUMENT" value="30"/>
+    <Control type="ScriptSlider" id="L1_VOLUME" value="-17.1"/>
+    <Control type="ScriptSlider" id="L1_PAN" value="0"/>
+    <Control type="ScriptSlider" id="L1_WIDE" value="100"/>
+    <Control type="ScriptButton" id="L1_ON" value="0"/>
+    <Control type="ScriptButton" id="L1_FILTER ON1" value="1"/>
+    <Control type="ScriptComboBox" id="L2FilterSelect" value="10"/>
+    <Control type="ScriptSlider" id="L2_FILTER FREQUENCY" value="20000"/>
+    <Control type="ScriptSlider" id="L2_FILTER RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L2_FILTER BIPOLAR" value="0.33"/>
+    <Control type="ScriptSlider" id="L2_FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L2_FILTER VELOCITY FREQUENCE" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY FREQUENCE ON" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY FREQUENCE MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY FREQUENCE INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L2_FILTER VELOCITY BIPOLAR" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY BIPOLAR ON" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY FBIPLOAR MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY FBIPLOAR INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_FILTER VELOCITY GAIN" value="0.01"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY GAIN ON" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY GAIN MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_FILTER VELOCITY GAIN INVERT" value="0"/>
+    <Control type="ScriptButton" id="L2_FENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L2_FENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L2_FATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L2_FVELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_FVELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_FVELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L2_FENV DECAY CURVE" value="0"/>
+    <Control type="ScriptButton" id="L2_XPRESS ON" value="0"/>
+    <Control type="ScriptComboBox" id="L2 MIDI CC SELECT" value="1"/>
+    <Control type="ScriptSlider" id="L2_MIDI CC" value="200"/>
+    <Control type="ScriptSlider" id="L2_MIDI CH" value="1"/>
+    <Control type="ScriptSlider" id="L2High" value="96"/>
+    <Control type="ScriptSlider" id="L2Low" value="9"/>
+    <Control type="ScriptSliderPack" id="L2_keygainsliders" value="0" data="512....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C"/>
+    <Control type="ScriptSlider" id="L2_ENV_ATTACK" value="41"/>
+    <Control type="ScriptSlider" id="L2_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L2_ENV_DECAY" value="5768"/>
+    <Control type="ScriptSlider" id="L2_ENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L2_ENV_RELEASE" value="608"/>
+    <Control type="ScriptSlider" id="L2_ATTACK LEVEL" value="-7.13"/>
+    <Control type="ScriptSlider" id="L2_VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_ATTACK CURVE" value="0.62"/>
+    <Control type="ScriptSlider" id="L2_DECAY CURVE" value="0.27"/>
+    <Control type="ScriptSlider" id="L2_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY ON" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_SAMPLE START CONSTANT" value="0"/>
+    <Control type="ScriptButton" id="L2_SAMPLE START CONSTANT ON" value="0"/>
+    <Control type="ScriptSlider" id="L2_VELOCITY SAMPLE START" value="0.41"/>
+    <Control type="ScriptButton" id="L2_VELOCITY SAMPLE START ON" value="1"/>
+    <Control type="ScriptButton" id="L2_VELOCITY SAMPLE START MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_VELOCITY SAMPLE START INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L2_RANDOM SAMPLE START" value="0.86"/>
+    <Control type="ScriptButton" id="L2_RANDOM SAMPLE START ON" value="1"/>
+    <Control type="ScriptButton" id="L2_PENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L2_PENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L2_PENV VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK LEVEL INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L2_PENV VELOCITY ATTACK TIME INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L2_PENV DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L2_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L2_TRANSPOSE" value="0"/>
+    <Control type="ScriptComboBox" id="LAYER2INSTRUMENT" value="37"/>
+    <Control type="ScriptSlider" id="L2_VOLUME" value="-17.1"/>
+    <Control type="ScriptSlider" id="L2_PAN" value="0"/>
+    <Control type="ScriptSlider" id="L2_WIDE" value="100"/>
+    <Control type="ScriptButton" id="L2_ON" value="1"/>
+    <Control type="ScriptButton" id="L3_FILTER ON" value="0"/>
+    <Control type="ScriptComboBox" id="L3FilterSelect" value="1"/>
+    <Control type="ScriptSlider" id="L3_FILTER FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L3_FILTER RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L3_FILTER BIPOLAR" value="-1"/>
+    <Control type="ScriptSlider" id="L3_FILTER GAIN" value="-18"/>
+    <Control type="ScriptSlider" id="L3_FILTER VELOCITY FREQUENCE" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY FREQUENCE ON" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY FREQUENCE MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY FREQUENCE INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L3_FILTER VELOCITY BIPOLAR" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY BIPOLAR ON" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY FBIPLOAR MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY FBIPLOAR INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_FILTER VELOCITY GAIN" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY GAIN ON" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY GAIN MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_FILTER VELOCITY GAIN INVERT" value="0"/>
+    <Control type="ScriptButton" id="L3_FENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L3_FENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L3_FATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L3_FVELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_FVELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_FVELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L3_FENV DECAY CURVE" value="0"/>
+    <Control type="ScriptButton" id="L3_XPRESS ON" value="0"/>
+    <Control type="ScriptComboBox" id="L3 MIDI CC SELECT" value="1"/>
+    <Control type="ScriptSlider" id="L3_MIDI CC" value="200"/>
+    <Control type="ScriptSlider" id="L3_MIDI CH" value="0"/>
+    <Control type="ScriptSlider" id="L3High" value="96"/>
+    <Control type="ScriptSlider" id="L3Low" value="9"/>
+    <Control type="ScriptSliderPack" id="L3_keygainsliders" value="0" data="512....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C"/>
+    <Control type="ScriptSlider" id="L3_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L3_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L3_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L3_ENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L3_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L3_ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L3_VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L3_DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L3_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY ON" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_SAMPLE START CONSTANT" value="0"/>
+    <Control type="ScriptButton" id="L3_SAMPLE START CONSTANT ON" value="0"/>
+    <Control type="ScriptSlider" id="L3_VELOCITY SAMPLE START" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY SAMPLE START ON" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY SAMPLE START MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_VELOCITY SAMPLE START INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L3_RANDOM SAMPLE START" value="0"/>
+    <Control type="ScriptButton" id="L3_RANDOM SAMPLE START ON" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L3_PENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV INTENSITY" value="0.23"/>
+    <Control type="ScriptSlider" id="L3_PENV ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L3_PENV VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK LEVEL INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L3_PENV VELOCITY ATTACK TIME INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L3_PENV DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L3_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L3_TRANSPOSE" value="0"/>
+    <Control type="ScriptComboBox" id="LAYER3INSTRUMENT" value="79"/>
+    <Control type="ScriptSlider" id="L3_VOLUME" value="-100"/>
+    <Control type="ScriptSlider" id="L3_PAN" value="0"/>
+    <Control type="ScriptSlider" id="L3_WIDE" value="100"/>
+    <Control type="ScriptButton" id="L3_ON" value="1"/>
+    <Control type="ScriptButton" id="L4_FILTER ON" value="0"/>
+    <Control type="ScriptComboBox" id="L4FilterSelect" value="1"/>
+    <Control type="ScriptSlider" id="L4_FILTER FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L4_FILTER RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L4_FILTER BIPOLAR" value="-1"/>
+    <Control type="ScriptSlider" id="L4_FILTER GAIN" value="-18"/>
+    <Control type="ScriptSlider" id="L4_FILTER VELOCITY FREQUENCE" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY FREQUENCE ON" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY FREQUENCE MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY FREQUENCE INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L4_FILTER VELOCITY BIPOLAR" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY BIPOLAR ON" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY BIPLOAR MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY BIPLOAR INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_FILTER VELOCITY GAIN" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY GAIN ON" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY GAIN MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_FENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L4_FENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L4_FATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L4_FVELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_FVELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_FVELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L4_FENV DECAY CURVE" value="0"/>
+    <Control type="ScriptButton" id="L4_FILTER VELOCITY GAIN INVERT" value="0"/>
+    <Control type="ScriptButton" id="L4_XPRESS ON" value="0"/>
+    <Control type="ScriptComboBox" id="L4 MIDI CC SELECT" value="1"/>
+    <Control type="ScriptSlider" id="L4_MIDI CC" value="200"/>
+    <Control type="ScriptSlider" id="L4_MIDI CH" value="0"/>
+    <Control type="ScriptSlider" id="L4High" value="96"/>
+    <Control type="ScriptSlider" id="L4Low" value="9"/>
+    <Control type="ScriptSliderPack" id="L4_keygainsliders" value="40" data="512....f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C...3O...f+....9C"/>
+    <Control type="ScriptSlider" id="L4_ENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L4_ENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L4_ENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L4_ENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L4_ENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L4_ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L4_VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK LEVEL INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ATTACK TIME INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L4_DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L4_VELOCITY" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY ON" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_SAMPLE START CONSTANT" value="0"/>
+    <Control type="ScriptButton" id="L4_SAMPLE START CONSTANT ON" value="0"/>
+    <Control type="ScriptSlider" id="L4_VELOCITY SAMPLE START" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY SAMPLE START ON" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY SAMPLE START MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_VELOCITY SAMPLE START INVERT" value="0"/>
+    <Control type="ScriptSlider" id="L4_RANDOM SAMPLE START" value="0"/>
+    <Control type="ScriptButton" id="L4_RANDOM SAMPLE START ON" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV ON" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV_ATTACK" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV_HOLD" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV_DECAY" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV_SUSTAIN" value="-100"/>
+    <Control type="ScriptSlider" id="L4_PENV_RELEASE" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV INTENSITY" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV ATTACK LEVEL" value="-20"/>
+    <Control type="ScriptSlider" id="L4_PENV VELOCITY ATTACK LEVEL" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK LEVEL ON" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK LEVEL MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK LEVEL INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV VELOCITY ATTACK TIME" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK TIME ON" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK TIME MODE" value="0"/>
+    <Control type="ScriptButton" id="L4_PENV VELOCITY ATTACK TIME INVERT"
+             value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV ATTACK CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L4_PENV DECAY CURVE" value="0"/>
+    <Control type="ScriptSlider" id="L4_PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L4_TRANSPOSE" value="0"/>
+    <Control type="ScriptComboBox" id="LAYER4INSTRUMENT" value="79"/>
+    <Control type="ScriptSlider" id="L4_VOLUME" value="-100"/>
+    <Control type="ScriptSlider" id="L4_PAN" value="0"/>
+    <Control type="ScriptSlider" id="L4_WIDE" value="100"/>
+    <Control type="ScriptButton" id="L4_ON" value="1"/>
+    <Control type="ScriptButton" id="EQ1 ON" value="0"/>
+    <Control type="ScriptButton" id="EQ2 ON" value="0"/>
+    <Control type="ScriptButton" id="EQ3 ON" value="0"/>
+    <Control type="ScriptButton" id="EQ4 ON" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO GAIN" value="1"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO1 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO1 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO1 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO1 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO PITCH" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO FREQUENCY" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO FILTER AIN1" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO FILTER GAIN" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO RESONANCE" value="0"/>
+    <Control type="ScriptSlider" id="L1 LFO2 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L2 LFO2 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L3 LFO2 TO BIPOLAR" value="0"/>
+    <Control type="ScriptSlider" id="L4 LFO2 TO BIPOLAR" value="0"/>
+    <Control type="ScriptComboBox" id="LFO1WaveForm" value="6"/>
+    <Control type="ScriptButton" id="LFO1 PTNButton" value="0"/>
+    <Control type="ScriptSlider" id="LFO1 FREQUENCY" value="14"/>
+    <Control type="ScriptSlider" id="LFO1 SMOOTHING" value="159"/>
+    <Control type="ScriptSlider" id="LFO1 FADE IN" value="442"/>
+    <Control type="ScriptButton" id="LFO1 LEGATO" value="0"/>
+    <Control type="ScriptButton" id="LFO1 LOOP" value="1"/>
+    <Control type="ScriptSlider" id="LFO1 INTENSITY" value="1"/>
+    <Control type="ScriptComboBox" id="LFO2WaveForm" value="2"/>
+    <Control type="ScriptButton" id="LFO2 PTNButton" value="0"/>
+    <Control type="ScriptSlider" id="LFO2 FREQUENCY" value="5"/>
+    <Control type="ScriptSlider" id="LFO2 SMOOTHING" value="256"/>
+    <Control type="ScriptSlider" id="LFO2 FADE IN" value="605"/>
+    <Control type="ScriptButton" id="LFO2 LEGATO" value="0"/>
+    <Control type="ScriptButton" id="LFO2 LOOP" value="0"/>
+    <Control type="ScriptSlider" id="LFO2 INTENSITY" value="0"/>
+    <Control type="ScriptSliderPack" id="LFO1 SliderPack" value="14" data="64....f+LyLy7SgqGsOJb8H9......6QgiOHEtd+zLyL4iqGE1OOJb887nv08SJb8nOMyLS+nv0i3ydT31OtdTX9."/>
+    <Control type="ScriptPanel" id="LFO2EditPanel" value="0"/>
+    <Control type="ScriptTable" id="LFO2 CUSTOM TABLE" value="0" data="36.........78C...vOwA7X+....yC...3O...f+....9C....."/>
+    <Control type="ScriptSlider" id="COMPRESSOR THRESHOLD" value="-3.29"/>
+    <Control type="ScriptSlider" id="COMPRESSOR RATIO" value="3.7"/>
+    <Control type="ScriptSlider" id="COMPRESSOR ATTACK" value="7.15"/>
+    <Control type="ScriptSlider" id="COMPRESSOR RELEASE" value="15.67"/>
+    <Control type="ScriptButton" id="CONVOLUTION ON" value="1"/>
+    <Control type="ScriptSlider" id="CONVOLUTION DAMPING" value="-100"/>
+    <Control type="ScriptSlider" id="CONVOLUTION HICUT" value="20"/>
+    <Control type="ScriptSlider" id="CONVOLUTION IMPULSE LENGTH" value="0"/>
+    <Control type="ScriptSlider" id="CONVOLUTION DRY" value="0"/>
+    <Control type="ScriptSlider" id="CONVOLUTION WET" value="-29.06"/>
+    <Control type="ScriptComboBox" id="IMPULSEselector" value="11"/>
+    <Control type="ScriptButton" id="COMPRESSION ON" value="1"/>
+    <Control type="ScriptButton" id="MAKEUP ON" value="1"/>
+    <Control type="ScriptSlider" id="Knob1" value="0"/>
+  </Content>
+  <Modules>
+    <Processor Type="CurveEq" ID="L1_EQ" Bypassed="1" NumFilters="0" FFTEnabled="0">
+      <ChildProcessors/>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+    </Processor>
+    <Processor Type="CurveEq" ID="L2_EQ" Bypassed="1" NumFilters="0" FFTEnabled="0">
+      <ChildProcessors/>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+    </Processor>
+    <Processor Type="CurveEq" ID="L3_EQ" Bypassed="1" NumFilters="0" FFTEnabled="0">
+      <ChildProcessors/>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+    </Processor>
+    <Processor Type="CurveEq" ID="L4_EQ" Bypassed="1" NumFilters="0" FFTEnabled="0">
+      <ChildProcessors/>
+      <RoutingMatrix NumSourceChannels="2" Channel0="0" Send0="-1" Channel1="1" Send1="-1"/>
+    </Processor>
+  </Modules>
+  <MidiAutomation>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="-18"
+                End="0" FullStart="-18" FullEnd="18" Skew="1" Interval="0.01"
+                Attribute="L2_FILTER GAIN" Inverted="1"/>
+    <Controller Controller="1" Processor="Interface" MacroIndex="-1" Start="-18"
+                End="0" FullStart="-18" FullEnd="18" Skew="1" Interval="0.01"
+                Attribute="L1_FILTER GAIN" Inverted="1"/>
+  </MidiAutomation>
+  <MPEData Enabled="0"/>
+</Preset>

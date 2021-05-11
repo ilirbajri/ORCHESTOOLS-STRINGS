@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASS SPICCATO SOFT" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="33" HiKey="34" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_A#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.2522" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="0" MonolithLength="49152"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="33" HiKey="34" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_A#0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.8599" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="49152" MonolithLength="61440"
+          SampleRate="44100"/>
+  <sample Root="45" LoKey="44" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_A1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.06101" SampleStartMod="8000"
+          MonolithOffset="110592" MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="45" LoKey="44" HiKey="47" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_A1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.1638" SampleStartMod="18000"
+          MonolithOffset="217088" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="59" LoKey="57" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_B2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.8234" SampleStartMod="8000"
+          MonolithOffset="319488" MonolithLength="73728" SampleRate="44100"/>
+  <sample Root="59" LoKey="57" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_B2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.8401" SampleStartMod="18000"
+          MonolithOffset="393216" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="49" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_C#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0756" SampleStartMod="8000"
+          MonolithOffset="462848" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="49" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_C#2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.7401" SampleStartMod="18000"
+          MonolithOffset="528384" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="1" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_C1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.2022" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="614400" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="35" HiKey="36" LoVel="1" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_C1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.768" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="688128" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="1" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_D1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.0764" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="741376" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="37" HiKey="38" LoVel="1" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_D1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.8315" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="811008" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="38.8707" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="884736" MonolithLength="81920"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.6684" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="966656" MonolithLength="110592"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="1" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.49" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="1077248" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="39" HiKey="40" LoVel="1" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="44.9492" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="1142784" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="51" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.5296" SampleStart="3237"
+          SampleStartMod="8000" MonolithOffset="1200128" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="51" HiKey="53" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_E2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="26.6406" SampleStartMod="18000"
+          MonolithOffset="1269760" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_F#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="29.4147" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="1351680" MonolithLength="61440"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_F#0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.979" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="1413120" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_F#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.3908" SampleStartMod="8000"
+          MonolithOffset="1482752" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="42" LoKey="41" HiKey="43" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_F#1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.513" SampleStartMod="18000"
+          MonolithOffset="1548288" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="56" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_G#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.5025" SampleStartMod="8000"
+          MonolithOffset="1617920" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="56" LoKey="54" HiKey="56" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_G#2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0998" SampleStartMod="18000"
+          MonolithOffset="1699840" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_G0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.5437" UpperVelocityXFade="0"
+          SampleStartMod="8000" MonolithOffset="1789952" MonolithLength="53248"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Spic/BKCtbss_Spic_G0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.5048" UpperVelocityXFade="0"
+          SampleStartMod="18000" MonolithOffset="1843200" MonolithLength="53248"
+          SampleRate="44100"/>
+</samplemap>

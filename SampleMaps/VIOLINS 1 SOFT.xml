@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLINS 1 SOFT" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_A2_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.8613" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="18026" MonolithOffset="0" MonolithLength="495616"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="67" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_A3_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.29589" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="22559" MonolithOffset="495616" MonolithLength="475136"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_B2_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.1915" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="34889" MonolithOffset="970752" MonolithLength="581632"
+          SampleRate="44100"/>
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_B4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.4713" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="27132" MonolithOffset="1552384"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_C4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.12094" LoopEnd="373255"
+          LoopStart="213196" LoopXFade="15000" SampleStartMod="125714"
+          LoopEnabled="1" SampleStart="25920" MonolithOffset="2068480"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_D3_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2223" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="32376" MonolithOffset="2584576"
+          MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_D5_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.56451" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="17946" MonolithOffset="3100672"
+          MonolithLength="532480" SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_E4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.0737" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="18180" MonolithOffset="3633152"
+          MonolithLength="581632" SampleRate="44100"/>
+  <sample Root="66" LoKey="63" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_F#3_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0519" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="73701" Volume="-5" MonolithOffset="4214784"
+          MonolithLength="397312" SampleRate="44100"/>
+  <sample Root="55" LoKey="0" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_G2_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.185" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="50010" MonolithOffset="4612096"
+          MonolithLength="585728" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/susVib/VlnEns_susVib_G4_v1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.23317" LoopEnd="380000"
+          LoopStart="200000" LoopXFade="15000" SampleStartMod="100000"
+          LoopEnabled="1" SampleStart="13905" MonolithOffset="5197824"
+          MonolithLength="585728" SampleRate="44100"/>
+</samplemap>

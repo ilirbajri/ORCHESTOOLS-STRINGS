@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLAS PIZZICATO SOFT" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="69" LoKey="64" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_A3_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0425" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="0" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="69" LoKey="64" HiKey="70" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_A3_v1_rr2.wav"
+          Duplicate="0" SampleStart="0" Normalized="1" NormalizedPeak="6.35819"
+          SampleStartMod="3000" MonolithOffset="32768" MonolithLength="28672"
+          SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_B2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.9974" SampleStartMod="3000"
+          MonolithOffset="61440" MonolithLength="81920" SampleRate="44100"/>
+  <sample Root="59" LoKey="56" HiKey="59" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_B2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.38508" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="143360" MonolithLength="57344"
+          SampleRate="44100"/>
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_B4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.46262" SampleStartMod="3000"
+          MonolithOffset="200704" MonolithLength="16384" SampleRate="44100"/>
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_B4_v1_rr2.wav"
+          Duplicate="0" SampleStart="2916" Normalized="1" NormalizedPeak="9.99561"
+          SampleStartMod="3000" MonolithOffset="217088" MonolithLength="16384"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_C2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.8868" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="233472" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="48" LoKey="0" HiKey="48" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_C2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="60.809" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="335872" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_D3_v1_rr1.wav"
+          Duplicate="0" SampleStart="0" Normalized="1" NormalizedPeak="15.2992"
+          SampleStartMod="3000" MonolithOffset="434176" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="62" LoKey="60" HiKey="63" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_D3_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.5075" SampleStartMod="3000"
+          MonolithOffset="512000" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_D5_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.20123" SampleStartMod="3000"
+          MonolithOffset="548864" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_D5_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.36261" SampleStartMod="3000"
+          MonolithOffset="569344" MonolithLength="20480" SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_E2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="35.3996" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="589824" MonolithLength="20480"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="49" HiKey="52" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_E2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.0772" SampleStartMod="3000"
+          MonolithOffset="610304" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="76" LoKey="71" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_E4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.8175" SampleStartMod="3000"
+          MonolithOffset="647168" MonolithLength="32768" SampleRate="44100"/>
+  <sample Root="76" LoKey="71" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_E4_v1_rr2.wav"
+          Duplicate="0" SampleStart="37" Normalized="1" NormalizedPeak="15.6166"
+          SampleStartMod="3000" MonolithOffset="679936" MonolithLength="32768"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_G2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.2256" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="712704" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="55" LoKey="53" HiKey="55" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_G2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.8742" SampleStart="0"
+          SampleStartMod="3000" MonolithOffset="753664" MonolithLength="40960"
+          SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_G4_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0592" SampleStartMod="3000"
+          MonolithOffset="794624" MonolithLength="24576" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Viola Section/pizz/ViolaEns_pizz_G4_v1_rr2.wav"
+          Duplicate="0" SampleStart="0" Normalized="1" NormalizedPeak="12.5584"
+          SampleStartMod="3000" MonolithOffset="819200" MonolithLength="24576"
+          SampleRate="44100"/>
+</samplemap>

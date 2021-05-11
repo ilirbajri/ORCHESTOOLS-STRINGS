@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLOS ATTACK" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_A2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.94299" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="0" MonolithLength="516096" SampleRate="44100"/>
+  <sample Root="47" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_B1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.72098" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="516096" MonolithLength="565248"
+          SampleRate="44100"/>
+  <sample Root="71" LoKey="70" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_B3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.35326" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          SampleStart="2528" LoopEnabled="1" MonolithOffset="1081344" MonolithLength="479232"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_C1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.43045" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          SampleStart="1655" LoopEnabled="1" MonolithOffset="1560576" MonolithLength="557056"
+          SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_C3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.87656" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="2117632" MonolithLength="503808"
+          SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_D2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.51447" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="2621440" MonolithLength="548864"
+          SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_D4_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.87536" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          SampleStart="617" LoopEnabled="1" MonolithOffset="3170304" MonolithLength="466944"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_E1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.67044" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="3637248" MonolithLength="516096"
+          SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_E3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.34463" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="4153344" MonolithLength="548864"
+          SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_F2_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.87041" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="4702208" MonolithLength="512000"
+          SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_F4_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.06175" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          SampleStart="651" LoopEnabled="1" MonolithOffset="5214208" MonolithLength="454656"
+          SampleRate="44100"/>
+  <sample Root="43" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_G1_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.55244" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          LoopEnabled="1" MonolithOffset="5668864" MonolithLength="565248"
+          SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/susvib/susvib_G3_v3_1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="1.82628" LowerVelocityXFade="0"
+          LoopEnd="350000" LoopStart="200000" LoopXFade="15000" SampleStartMod="150000"
+          SampleStart="858" LoopEnabled="1" MonolithOffset="6234112" MonolithLength="557056"
+          SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_A2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.02641" LowerVelocityXFade="90"
+          MonolithOffset="6791168" MonolithLength="147456" SampleRate="44100"/>
+  <sample Root="47" LoKey="45" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="3.4408" LowerVelocityXFade="90"
+          MonolithOffset="6938624" MonolithLength="90112" SampleRate="44100"/>
+  <sample Root="71" LoKey="69" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_B3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.72011" LowerVelocityXFade="90"
+          MonolithOffset="7028736" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.24179" LowerVelocityXFade="90"
+          MonolithOffset="7131136" MonolithLength="155648" SampleRate="44100"/>
+  <sample Root="60" LoKey="59" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_C3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="3.15699" LowerVelocityXFade="90"
+          MonolithOffset="7286784" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="50" LoKey="49" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.39135" LowerVelocityXFade="90"
+          MonolithOffset="7417856" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="74" LoKey="73" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_D4_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.35225" LowerVelocityXFade="90"
+          MonolithOffset="7548928" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.7326" LowerVelocityXFade="90"
+          MonolithOffset="7618560" MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_E3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.87134" LowerVelocityXFade="90"
+          MonolithOffset="7704576" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="53" LoKey="52" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F2_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.47037" LowerVelocityXFade="90"
+          MonolithOffset="7806976" MonolithLength="69632" SampleRate="44100"/>
+  <sample Root="77" LoKey="76" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_F4_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          Normalized="1" NormalizedPeak="2.99732" LowerVelocityXFade="90"
+          MonolithOffset="7876608" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="43" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G1_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          MonolithOffset="7938048" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="66" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/spic/spic_G3_v2_RR2.wav"
+          Duplicate="0" SampleStartMod="6000" SampleStart="500" Volume="-1"
+          MonolithOffset="8065024" MonolithLength="86016" SampleRate="44100"/>
+</samplemap>

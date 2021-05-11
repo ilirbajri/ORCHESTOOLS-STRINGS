@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLIN PIZZICATO SOFT" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="69" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A4_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="62.5344" SampleStartMod="6000"
+          MonolithOffset="0" MonolithLength="102400" SampleRate="44100"/>
+  <sample Root="69" LoKey="68" HiKey="69" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A4_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="82.7475" SampleStartMod="6000"
+          MonolithOffset="102400" MonolithLength="98304" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A5_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="20.2022" SampleStartMod="6000"
+          MonolithOffset="200704" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="81" LoKey="80" HiKey="82" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A5_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="30.6529" SampleStartMod="6000"
+          MonolithOffset="262144" MonolithLength="65536" SampleRate="44100"/>
+  <sample Root="93" LoKey="89" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A6_f_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.23359" SampleStartMod="6000"
+          MonolithOffset="327680" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="93" LoKey="89" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_A6_f_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.25282" SampleStartMod="6000"
+          MonolithOffset="368640" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="60" LoKey="0" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_C4_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="54.6133" SampleStartMod="6000"
+          MonolithOffset="413696" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="60" LoKey="0" HiKey="60" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_C4_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="47.3526" SampleStartMod="6000"
+          MonolithOffset="466944" MonolithLength="49152" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_C5_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.047" SampleStartMod="6000"
+          MonolithOffset="516096" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_C5_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.305" SampleStartMod="6000"
+          MonolithOffset="552960" MonolithLength="36864" SampleRate="44100"/>
+  <sample Root="64" LoKey="61" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E4_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="39.3373" SampleStartMod="6000"
+          MonolithOffset="589824" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="64" LoKey="61" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E4_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="99.9024" SampleStartMod="6000"
+          MonolithOffset="647168" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E5_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.284" SampleStartMod="6000"
+          MonolithOffset="708608" MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E5_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="31.387" SampleStartMod="6000"
+          MonolithOffset="786432" MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="88" LoKey="83" HiKey="88" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E6_f_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0515" SampleStartMod="6000"
+          MonolithOffset="880640" MonolithLength="57344" SampleRate="44100"/>
+  <sample Root="88" LoKey="83" HiKey="88" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_E6_f_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.43507" SampleStartMod="6000"
+          MonolithOffset="937984" MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_G4_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.7803" SampleStartMod="6000"
+          MonolithOffset="983040" MonolithLength="61440" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="67" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_G4_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="15.0312" SampleStartMod="6000"
+          MonolithOffset="1044480" MonolithLength="53248" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_G5_p_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.1646" SampleStartMod="6000"
+          MonolithOffset="1097728" MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Violin/Pizz/LLVln_Pizz_G5_p_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2497" SampleStartMod="6000"
+          MonolithOffset="1138688" MonolithLength="45056" SampleRate="44100"/>
+</samplemap>

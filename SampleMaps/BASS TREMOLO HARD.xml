@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASS TREMOLO HARD" RRGroupAmount="1" MicPositions=";" SaveMode="2">
+  <sample Root="59" LoKey="58" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_B2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.77718" LowerVelocityXFade="0"
+          LoopEnd="114291" LoopStart="51247" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="24810" MonolithOffset="0" MonolithLength="327680"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="33" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_C1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.60137" LowerVelocityXFade="0"
+          LoopEnd="269188" LoopStart="105545" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="29533" MonolithOffset="327680" MonolithLength="389120"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="29" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_E0_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.66316" LowerVelocityXFade="0"
+          LoopEnd="220000" LoopStart="118595" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="30633" MonolithOffset="716800" MonolithLength="352256"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_E1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.94323" LowerVelocityXFade="0"
+          LoopEnd="220000" LoopStart="105534" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="28533" MonolithOffset="1069056" MonolithLength="311296"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="47" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_E2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.94611" LowerVelocityXFade="0"
+          LoopEnd="182044" LoopStart="67640" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="28392" MonolithOffset="1380352" MonolithLength="335872"
+          SampleRate="44100"/>
+  <sample Root="44" LoKey="42" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_G#1_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="2.30404" LowerVelocityXFade="0"
+          LoopEnd="220000" LoopStart="113371" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="29787" MonolithOffset="1716224" MonolithLength="356352"
+          SampleRate="44100"/>
+  <sample Root="56" LoKey="54" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_G#2_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.01569" LowerVelocityXFade="0"
+          LoopEnd="220000" LoopStart="120000" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="19990" MonolithOffset="2072576" MonolithLength="319488"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="30" HiKey="32" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Trem/BKCtbss_Trem_G0_v2_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="4.17427" LowerVelocityXFade="0"
+          LoopEnd="220000" LoopStart="140278" LoopXFade="15000" LoopEnabled="1"
+          SampleStartMod="24955" MonolithOffset="2392064" MonolithLength="303104"
+          SampleRate="44100"/>
+</samplemap>

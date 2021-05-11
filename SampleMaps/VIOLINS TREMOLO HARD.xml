@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="VIOLINS TREMOLO HARD" RRGroupAmount="1" MicPositions=";"
+           SaveMode="2">
+  <sample Root="57" LoKey="56" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_A2_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="282677" LoopXFade="15000" LoopStart="95518"
+          MonolithOffset="0" MonolithLength="389120" SampleRate="44100"
+          Normalized="1" NormalizedPeak="3.33211" SampleStart="1939"/>
+  <sample Root="69" LoKey="63" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_A3_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="276859" LoopXFade="15000" LoopStart="103360"
+          MonolithOffset="389120" MonolithLength="368640" SampleRate="44100"
+          Normalized="1" NormalizedPeak="1.73716" SampleStart="1845"/>
+  <sample Root="59" LoKey="58" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_B2_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="324429" LoopXFade="15000" LoopStart="103563"
+          MonolithOffset="757760" MonolithLength="421888" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.81126" SampleStart="2641"/>
+  <sample Root="83" LoKey="80" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_B4_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="223389" LoopXFade="15000" LoopStart="66639"
+          MonolithOffset="1179648" MonolithLength="335872" SampleRate="44100"
+          Normalized="1" NormalizedPeak="1.11623"/>
+  <sample Root="72" LoKey="70" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_C4_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="256807" LoopXFade="15000" LoopStart="100294"
+          MonolithOffset="1515520" MonolithLength="360448" SampleRate="44100"
+          Normalized="1" NormalizedPeak="1.57637"/>
+  <sample Root="62" LoKey="60" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_D3_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="309648" LoopXFade="15000" LoopStart="108122"
+          MonolithOffset="1875968" MonolithLength="454656" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.12835"/>
+  <sample Root="86" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_D5_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="283075" LoopXFade="15000" LoopStart="83471"
+          MonolithOffset="2330624" MonolithLength="413696" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.26705"/>
+  <sample Root="76" LoKey="73" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_E4_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="245793" LoopXFade="15000" LoopStart="91018"
+          MonolithOffset="2744320" MonolithLength="352256" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.91608"/>
+  <sample Root="55" LoKey="0" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_G2_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="327845" LoopXFade="15000" LoopStart="107537"
+          MonolithOffset="3096576" MonolithLength="462848" SampleRate="44100"
+          Normalized="1" NormalizedPeak="2.42062" SampleStart="2325"/>
+  <sample Root="79" LoKey="77" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Violin Section/Trem/VlnEns_Trem_G4_v2.wav"
+          Duplicate="0" Volume="-2" LowerVelocityXFade="0" SampleStartMod="100000"
+          LoopEnabled="1" LoopEnd="288312" LoopXFade="15000" LoopStart="106072"
+          MonolithOffset="3559424" MonolithLength="372736" SampleRate="44100"
+          Normalized="1" NormalizedPeak="1.38489"/>
+</samplemap>

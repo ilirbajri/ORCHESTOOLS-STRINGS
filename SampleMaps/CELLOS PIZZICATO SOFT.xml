@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="CELLOS PIZZICATO SOFT" RRGroupAmount="2" MicPositions=";"
+           SaveMode="2">
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_A2_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.5673" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="0"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="57" LoKey="55" HiKey="57" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_A2_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.38911" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="131072"
+          MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="47" LoKey="45" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_B1_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.3801" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="253952"
+          MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="47" LoKey="45" HiKey="47" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_B1_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7352" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="405504"
+          MonolithLength="167936" SampleRate="44100"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_B3_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="22.8189" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="573440"
+          MonolithLength="106496" SampleRate="44100"/>
+  <sample Root="71" LoKey="69" HiKey="71" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_B3_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.4169" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="679936"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_C1_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.7162" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="757760"
+          MonolithLength="139264" SampleRate="44100"/>
+  <sample Root="36" LoKey="0" HiKey="37" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_C1_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.2161" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="897024"
+          MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_C3_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.69466" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1040384"
+          MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="60" LoKey="58" HiKey="61" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_C3_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.1624" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1159168"
+          MonolithLength="114688" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_D2_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.9477" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1273856"
+          MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="50" LoKey="48" HiKey="50" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_D2_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="7.83173" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1396736"
+          MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_D4_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.5377" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1527808"
+          MonolithLength="45056" SampleRate="44100"/>
+  <sample Root="74" LoKey="72" HiKey="74" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_D4_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.40205" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1572864"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_E1_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="23.6252" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1650688"
+          MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="40" LoKey="38" HiKey="40" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_E1_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="21.4309" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1794048"
+          MonolithLength="118784" SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_E3_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="9.67463" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1912832"
+          MonolithLength="86016" SampleRate="44100"/>
+  <sample Root="64" LoKey="62" HiKey="64" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_E3_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="3.6417" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="1998848"
+          MonolithLength="94208" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_F2_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.6371" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2093056"
+          MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="53" LoKey="51" HiKey="54" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_F2_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="12.2405" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2203648"
+          MonolithLength="77824" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_F4_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.4354" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2281472"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="77" LoKey="75" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_F4_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="6.15015" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2322432"
+          MonolithLength="40960" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_G1_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.836" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2363392"
+          MonolithLength="143360" SampleRate="44100"/>
+  <sample Root="43" LoKey="41" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_G1_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.13707" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2506752"
+          MonolithLength="122880" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_G3_v1_RR1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.82996" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2629632"
+          MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="67" LoKey="65" HiKey="68" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Cello Section/pizzT/pizzT_G3_v1_RR2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="5.70275" SampleStart="0"
+          UpperVelocityXFade="0" SampleStartMod="30000" MonolithOffset="2756608"
+          MonolithLength="122880" SampleRate="44100"/>
+</samplemap>

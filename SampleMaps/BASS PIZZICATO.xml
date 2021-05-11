@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="BASS PIZZICATO" RRGroupAmount="2" MicPositions=";" SaveMode="2">
+  <sample Root="34" LoKey="33" HiKey="35" LoVel="0" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.49" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="0" MonolithLength="90112"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="33" HiKey="35" LoVel="0" HiVel="97" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="25.2062" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="90112" MonolithLength="81920"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="33" HiKey="35" LoVel="19" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.24767" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="172032" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="34" LoKey="33" HiKey="35" LoVel="19" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_A#0_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.0852" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="278528" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="49" LoKey="45" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C#2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="19.2413" SampleStartMod="5000"
+          MonolithOffset="393216" MonolithLength="131072" SampleRate="44100"/>
+  <sample Root="49" LoKey="45" HiKey="49" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C#2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="17.6267" SampleStartMod="5000"
+          MonolithOffset="524288" MonolithLength="126976" SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="0" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="29.9799" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="651264" MonolithLength="69632"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="0" HiVel="97" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="18.7246" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="720896" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="19" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.9635" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="823296" MonolithLength="102400"
+          SampleRate="44100"/>
+  <sample Root="36" LoKey="36" HiKey="37" LoVel="19" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_C1_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.0154" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="925696" MonolithLength="98304"
+          SampleRate="44100"/>
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_D1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="36.2879" SampleStartMod="5000"
+          MonolithOffset="1024000" MonolithLength="217088" SampleRate="44100"/>
+  <sample Root="38" LoKey="38" HiKey="39" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_D1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.4444" SampleStartMod="5000"
+          MonolithOffset="1241088" MonolithLength="266240" SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="0" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="97.2344" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="1507328" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="0" HiVel="97" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="61.8264" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="1613824" MonolithLength="106496"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="19" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.61862" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="1720320" MonolithLength="229376"
+          SampleRate="44100"/>
+  <sample Root="28" LoKey="0" HiKey="28" LoVel="19" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E0_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.89" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="1949696" MonolithLength="229376"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="0" HiVel="90" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="53.718" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2179072" MonolithLength="73728"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="0" HiVel="90" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="34.1689" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2252800" MonolithLength="81920"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="30" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="11.8553" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2334720" MonolithLength="131072"
+          SampleRate="44100"/>
+  <sample Root="40" LoKey="40" HiKey="41" LoVel="17" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E1_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="8.76853" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2465792" MonolithLength="114688"
+          SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E2_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="27.8639" SampleStartMod="5000"
+          MonolithOffset="2580480" MonolithLength="110592" SampleRate="44100"/>
+  <sample Root="52" LoKey="50" HiKey="127" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_E2_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="24.8808" SampleStartMod="5000"
+          MonolithOffset="2691072" MonolithLength="151552" SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="145.636" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2842624" MonolithLength="65536"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="0" HiVel="97" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="102.721" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2908160" MonolithLength="77824"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="19" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="16.3025" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="2985984" MonolithLength="208896"
+          SampleRate="44100"/>
+  <sample Root="30" LoKey="29" HiKey="30" LoVel="19" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#0_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="13.8378" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="3194880" MonolithLength="229376"
+          SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#1_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="28.7187" SampleStartMod="5000"
+          MonolithOffset="3424256" MonolithLength="221184" SampleRate="44100"/>
+  <sample Root="42" LoKey="42" HiKey="44" LoVel="0" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_F#1_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="35.3484" SampleStartMod="5000"
+          MonolithOffset="3645440" MonolithLength="262144" SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="0" HiVel="97" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v1_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="100.825" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="3907584" MonolithLength="45056"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="0" HiVel="97" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v1_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="42.3907" UpperVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="3952640" MonolithLength="61440"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="19" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v3_rr1.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="14.3217" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="4014080" MonolithLength="159744"
+          SampleRate="44100"/>
+  <sample Root="31" LoKey="31" HiKey="32" LoVel="19" HiVel="127" RRGroup="2"
+          FileName="{PROJECT_FOLDER}Solo Contrabass/Pizz/BKCtbss_Pizz_G0_v3_rr2.wav"
+          Duplicate="0" Normalized="1" NormalizedPeak="10.5737" LowerVelocityXFade="80"
+          SampleStartMod="5000" MonolithOffset="4173824" MonolithLength="180224"
+          SampleRate="44100"/>
+</samplemap>
