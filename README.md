@@ -16,3 +16,5 @@ VSCO 2 CE sample library by: Versilian Studios - License CC-BY-0.0
 ORCHESTOOLS PIANO |S| is a free/GPLv3 open source licensed public domain instrument.
 
 VST3 is a trademark of Steinberg Media Technologies GmbH
+
+![OT STRINGS 0](https://user-images.githubusercontent.com/44969792/117940743-adfc4200-b309-11eb-9029-248bc06ccc23.png)
