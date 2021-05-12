@@ -13,7 +13,7 @@ Use them for good and fun! Make music & Love!
 
 Hise is released under GPLv3 open source license. 
 VSCO 2 CE sample library by: Versilian Studios - License CC-BY-0.0
-ORCHESTOOLS PIANO |S| is a free/GPLv3 open source licensed public domain instrument.
+ORCHESTOOLS | STRINGS is a free/GPLv3 open source licensed public domain instrument.
 
 VST3 is a trademark of Steinberg Media Technologies GmbH
 
